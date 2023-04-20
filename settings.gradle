@@ -1,20 +1,20 @@
-pluginManagement {
-    repositories {
-        google()
-        mavenCentral()
-        gradlePluginPortal()
-        maven { url "https://jitpack.io" }
-        maven { url 'https://dl.bintray.com/jenly/maven' }
-    }
-}
-dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-    repositories {
-        google()
-        mavenCentral()
-        maven { url "https://jitpack.io" }
-        maven { url 'https://dl.bintray.com/jenly/maven' }
-    }
-}
-rootProject.name = "tkrefreshlayout"
+//pluginManagement {
+//    repositories {
+//        google()
+//        mavenCentral()
+//        gradlePluginPortal()
+//        maven { url "https://jitpack.io" }
+//        maven { url 'https://dl.bintray.com/jenly/maven' }
+//    }
+//}
+//dependencyResolutionManagement {
+//    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+//    repositories {
+//        google()
+//        mavenCentral()
+//        maven { url "https://jitpack.io" }
+//        maven { url 'https://dl.bintray.com/jenly/maven' }
+//    }
+//}
+//rootProject.name = "tkrefreshlayout"
 include ':app'

@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TwinklingRefreshLayout.iml" filepath="$PROJECT_DIR$/TwinklingRefreshLayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tkrefreshlayout.iml" filepath="$PROJECT_DIR$/.idea/modules/tkrefreshlayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tkrefreshlayout.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tkrefreshlayout.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tkrefreshlayout.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tkrefreshlayout.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tkrefreshlayout.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tkrefreshlayout.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tkrefreshlayout.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tkrefreshlayout.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TwinklingRefreshLayout.iml" filepath="$PROJECT_DIR$/.idea/modules/TwinklingRefreshLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TwinklingRefreshLayout.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TwinklingRefreshLayout.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TwinklingRefreshLayout.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TwinklingRefreshLayout.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TwinklingRefreshLayout.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TwinklingRefreshLayout.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TwinklingRefreshLayout.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TwinklingRefreshLayout.app.unitTest.iml" />
     </modules>
   </component>
 </project>
