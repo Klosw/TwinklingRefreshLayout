@@ -36,16 +36,19 @@ You can download these Videos for more details.
 ## Usage
 #### 1.Add a gradle dependency.
 ```
-	allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
-	}
- 
+ allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+ }
+
+```
+and
+```
  dependencies {
-	        implementation 'com.github.Klosw:TwinklingRefreshLayout:v1.0.7'
-	}
+     implementation 'com.github.Klosw:TwinklingRefreshLayout:v1.0.7'
+ }
 ```
 
 #### 2.Add TwinklingRefreshLayout in the layout xml.
