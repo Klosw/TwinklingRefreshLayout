@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/Klosw/TwinklingRefreshLayout.svg)](https://jitpack.io/#Klosw/TwinklingRefreshLayout)
 ## 【DECREEPTED】
 
 # TwinklingRefreshLayout
@@ -35,7 +36,16 @@ You can download these Videos for more details.
 ## Usage
 #### 1.Add a gradle dependency.
 ```
-compile 'com.lcodecorex:tkrefreshlayout:1.0.7'
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+ 
+ dependencies {
+	        implementation 'com.github.Klosw:TwinklingRefreshLayout:v1.0.7'
+	}
 ```
 
 #### 2.Add TwinklingRefreshLayout in the layout xml.
