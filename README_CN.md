@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/Klosw/TwinklingRefreshLayout.svg)](https://jitpack.io/#Klosw/TwinklingRefreshLayout)
+
 # TwinklingRefreshLayout
 TwinklingRefreshLayout延伸了Google的SwipeRefreshLayout的思想,不在列表控件上动刀,而是使用一个ViewGroup来包含列表控件,以保持其较低的耦合性和较高的通用性。其主要特性有：
 
@@ -31,7 +33,19 @@ You can download these Videos for more details.
 #### 1.添加gradle依赖
 将libray模块复制到项目中,或者直接在build.gradle中依赖:
 ```
-compile 'com.lcodecorex:tkrefreshlayout:1.0.7'
+ allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+ }
+
+```
+and
+```
+ dependencies {
+     implementation 'com.github.Klosw:TwinklingRefreshLayout:v1.0.7'
+ }
 ```
 
 #### 2.在xml中添加TwinklingRefreshLayout
